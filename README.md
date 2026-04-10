@@ -1,5 +1,7 @@
 <!-- OPENVSX-FORK-NOTICE -->
 > **Note**: This is a community fork published to the [Open VSX Registry](https://open-vsx.org/) for use in VS Code-compatible editors like Cursor. The original extension is maintained at [SAP/app-studio-toolkit](https://github.com/SAP/app-studio-toolkit). All credit goes to the original authors. This fork contains no modifications beyond this notice. Please report any bugs or issues to the [upstream repository](https://github.com/SAP/app-studio-toolkit/issues).
+>
+> **Requirement**: The BAS Remote Access extension requires a Remote SSH extension. If you are using Cursor, this is included natively. For other editors, ensure a compatible Remote SSH extension is installed.
 <!-- /OPENVSX-FORK-NOTICE -->
 
 [![Continuous Integration](https://github.com/SAP/app-studio-toolkit/actions/workflows/ci.yml/badge.svg)](https://github.com/SAP/app-studio-toolkit/actions/workflows/ci.yml)
